@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Palanivel ND
+- 👋 Hi, I’m Palanivel N
 - 👀 I’m interested in Embedded SW, Machine Learning/AI & IoT.
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Embedded, ML / AIoT projects.
